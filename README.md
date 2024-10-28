@@ -15,12 +15,12 @@ of projects such as SPA’s, landing pages, and e-commerce while keeping the des
 
 <p align="left">
   &emsp;
-   <a href="https://developer.mozilla.org/en-US/docs/Glossary/TypeScript" target="_blank">
-     <img alt="JavaScript" src="https://img.shields.io/badge/TypeScript-white?logo=TypeScript&logoColor=blue&color=lightblue">
-   </a>
-  &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
+   </a>
+  &emsp;
+   <a href="https://developer.mozilla.org/en-US/docs/Glossary/TypeScript" target="_blank">
+     <img alt="JavaScript" src="https://img.shields.io/badge/TypeScript-white?logo=TypeScript&logoColor=blue&color=lightblue">
    </a>
   &emsp;
    <a href="https://www.python.org" target="_blank">
