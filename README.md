@@ -102,17 +102,17 @@ of projects such as SPA’s, landing pages, and e-commerce while keeping the des
 
 ## 🔥 Streak Stats
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=malikrizwan177&theme=algolia" alt="malikrizwan177" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=malikrizwan177" alt="malikrizwan177" /></p>
 
 ## 📊 Github Stats
 
 
   <br/>
   <p align="center">
-    <a href="https://github.com/malikrizwan177"><img align="center" src="https://github-readme-stats.vercel.app/api?username=malikrizwan177&show_icons=true&locale=en&theme=algolia" alt="malikrizwan177" height="192px"/></a>
+    <a href="https://github.com/malikrizwan177"><img align="center" src="https://github-readme-stats.vercel.app/api?username=malikrizwan177&show_icons=true&locale=en" alt="malikrizwan177" height="192px"/></a>
 	</p>
 	<p  align="center">
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=malikrizwan177&show_icons=true&locale=en&layout=compact&theme=algolia" alt="malikrizwan177" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=malikrizwan177&show_icons=true&locale=en&layout=compact" alt="malikrizwan177" height="192px"/>
 	</p>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
