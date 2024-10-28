@@ -112,7 +112,7 @@ of projects such as SPA’s, landing pages, and e-commerce while keeping the des
     <a href="https://github.com/malikrizwan177"><img align="center" src="https://github-readme-stats.vercel.app/api?username=malikrizwan177&show_icons=true&locale=en&theme=algolia" alt="malikrizwan177" height="192px"/></a>
 	</p>
 	<p  align="center">
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=malikrizwan177&show_icons=true&locale=en&layout=compact&theme=algolia" alt="malikrizwa177" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=malikrizwan177&show_icons=true&locale=en&layout=compact&theme=algolia" alt="malikrizwan177" height="192px"/>
 	</p>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
