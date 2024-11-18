@@ -48,6 +48,7 @@ of projects such as SPA’s, landing pages, and e-commerce while keeping the des
   <a href="https://tailwindcss.com" target="_blank"> 
     <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind%20CSS-lightblue?style=flat&logo=tailwindcss&logoColor=blue"/>
   </a>
+&emsp;
 </p>
 
 ### 👉 Backend Development
