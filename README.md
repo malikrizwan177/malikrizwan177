@@ -127,7 +127,7 @@ of projects such as SPA’s, landing pages, and e-commerce while keeping the des
 
 <br/>
 
-## 🙋‍♀️ Let's Connect
+## Let's Connect
 
 <p align="center">
 	<a href="https://github.com/malikrizwan177"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
